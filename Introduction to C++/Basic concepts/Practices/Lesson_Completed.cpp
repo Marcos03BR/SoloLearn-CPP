@@ -21,4 +21,5 @@ int main() {
 
     cout << "Lesson: " << lesson << endl;
     cout << "Completed: " << isCompleted;
+    
 }

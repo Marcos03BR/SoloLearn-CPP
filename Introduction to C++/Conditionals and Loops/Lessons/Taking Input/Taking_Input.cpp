@@ -1,5 +1,4 @@
-/*
-Now that we know how to take input from the user, we can make more interactive programs!
+/*Now that we know how to take input from the user, we can make more interactive programs!
 
 Let's change one of our previous examples, where we calculated the area of a wall, and use the length and height values as input.
 
@@ -10,6 +9,7 @@ Complete the code to take the length and height values as input, then calculate 
 using namespace std;
 
 int main() {
+    
     double length;
     double height;
 
@@ -17,6 +17,5 @@ int main() {
     double area = length * height;
 
     cout << area;
-
-    
+   
 }

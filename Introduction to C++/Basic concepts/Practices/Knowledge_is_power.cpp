@@ -10,5 +10,7 @@ Fix the code to generate the expected output.*/
 using namespace std;
 
 int main() {
+    
     cout << "Knowledge is power";
+
 }

@@ -2,8 +2,6 @@
 
 A win scores 3 points, while a draw scores 1.
 
- 
-
 Task
 
 Calculate and output the total points earned by the team.*/
@@ -12,9 +10,11 @@ Calculate and output the total points earned by the team.*/
 using namespace std;
 
 int main() {
+    
     int wins = 3;
     int draws = 1;
 
     int score = (3 * wins) + (1 * draws);
     cout << score;
+
 }

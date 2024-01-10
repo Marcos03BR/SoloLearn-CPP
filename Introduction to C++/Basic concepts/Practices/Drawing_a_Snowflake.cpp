@@ -13,6 +13,7 @@ Modify the code to display the expected output.*/
 using namespace std;
 
 int main() {
+  
     string p1 = "  *  ";
     string p2 = " *** ";
     string p3 = "*****";
@@ -22,4 +23,5 @@ int main() {
     cout << p3 << endl;
     cout << p2 << endl;
     cout << p1 << endl;
+
 }
