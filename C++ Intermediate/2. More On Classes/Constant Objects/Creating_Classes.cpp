@@ -11,7 +11,7 @@ class Number
         Number(int n) {
             num = n;
         }
-        //complete the method
+       
         const int square() const {
             
             return num * num;
